@@ -1,1 +1,1 @@
-Gradient Background Generator with values.
+Gradient Background Generator with linear gradient values.
